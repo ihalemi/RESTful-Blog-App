@@ -1,0 +1,31 @@
+body {
+    background: #FFEFBA;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#title {
+    text-transform: uppercase;
+    font-weight: 800;
+    text-align: center;
+}
+
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 6.0em;
+}
+
+#delete{
+    display: inline;
+}
+
+.ui.centered{
+    margin-bottom: 30px;
+}
+
+.description{
+    margin-bottom: 20px;
+}
