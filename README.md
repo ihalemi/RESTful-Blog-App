@@ -1,4 +1,4 @@
-# RESTful-Blog-App
+# RESTful-Blog-App   https://iblogger.herokuapp.com/blogs
 
 Blog App with CRUD capability and styled with Semantic UI - blog posts can be created, edited and deleted. User can write posts as either text or HTML that is sanitized for malicious <script> tags before being posted using the 'expressSanitizer' package. 
 
